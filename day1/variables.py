@@ -10,9 +10,9 @@
 # print(type(grade))
 # print(type(S))
 # print(a,b,grade)
-#
-# p,q,r=1,2,"multi"
-# print(p,q,r)
+
+p,q,r=1,2,"multi"
+print(p,q,r)
 
 #Swaping the numbers
 a=10
