@@ -72,11 +72,11 @@
 # Retrieving common values -
 # Approach1- intersection()
 
-# my_set1= {"apple","banana","cherry",10}
-# my_set2={10,20,30,"apple"}
-#
-# my_set3=my_set1.intersection(my_set2)
-# print(my_set3)
+my_set1= {"apple","banana","cherry",10}
+my_set2={10,20,30,"apple"}
+
+my_set3=my_set1.intersection(my_set2)
+print(my_set3)
 
 # Approach2- &
 
